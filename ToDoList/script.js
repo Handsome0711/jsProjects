@@ -12,7 +12,7 @@ function createNewElement(task) {
 
     //checkBox.type = "checkbox";
 
-    delButton.innerText="Delete";
+    delButton.innerText="X";
     delButton.className="delete";
     label.className="uncheck";
    // listItem.appendChild(checkBox);
